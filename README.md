@@ -1,4 +1,4 @@
-<img src="./llama3_architecture.png" width="600px"></img>
+<img src="./llama3_architecture.png" width="700px"></img>
 
 ## LLaMa3 - Pytorch
 
